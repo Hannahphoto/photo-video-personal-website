@@ -1,0 +1,12 @@
+{
+  "name": "photo-video-personal-website",
+  "version": "1.0.0",
+  "description": "Personal photography &amp; video website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
